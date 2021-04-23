@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>常用标签</title>
+      <link href="2021/04/21/%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/"/>
+      <url>2021/04/21/%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="常用标签"><a href="#常用标签" class="headerlink" title="常用标签"></a>常用标签</h1><h2 id="块级标签"><a href="#块级标签" class="headerlink" title="块级标签"></a>块级标签</h2><ul><li><p>默认宽度100%，多个块级元素各自独占一行，可以设置所有样式</p></li><li><p>块级元素可以嵌套块级元素、行级元素、行块级元素，p标签除外，p标签里不能嵌套p标签</p></li></ul><table><thead><tr><th>块级标签</th><th>解释</th><th>块级标签</th><th>解释</th></tr></thead><tbody><tr><td>h1-h6</td><td>标题</td><td>p</td><td>段落标签</td></tr><tr><td>div</td><td>常用块级标签，划分大块结构</td><td>dd</td><td>列表内容</td></tr><tr><td>table</td><td>表格</td><td>input</td><td>表单标签</td></tr><tr><td>tr</td><td>定义表格中的行</td><td>header</td><td>主页标签</td></tr><tr><td>caption</td><td>展示一个表格的标题</td><td>footer</td><td>表示最近一个章节内容或者根节点元素的页脚</td></tr><tr><td>thead</td><td>定义了一组定义表格的列头的行</td><td>nav</td><td>用作页面导航的链接组</td></tr><tr><td>tbody</td><td>定义表格的主体</td><td>article</td><td>装载显示一个独立的文章内容</td></tr><tr><td>input</td><td>文本框</td><td>section</td><td>表示页面中的一个内容区块</td></tr><tr><td>ol</td><td>有序列表</td><td>aside</td><td>用于侧边栏，底边栏 与 article 的内容相关。</td></tr><tr><td>ul</td><td>无序列表</td><td>hgroup</td><td>对页面或区段的标题元素进行组合，通常使用多级别的h1-h6标签节点进行分组</td></tr><tr><td>dl</td><td>列表 嵌套dt  dd使用</td><td>dt</td><td>列表标签</td></tr></tbody></table><h2 id="行级标签"><a href="#行级标签" class="headerlink" title="行级标签"></a>行级标签</h2><ul><li><p>默认宽度由内容撑开，多个行内元素各自独占一行，部分样式设置无效（宽高）</p></li><li><p>左右的内外边距可以正常使用，上下的内外边距无效</p></li><li><p>行级元素里不能嵌套块级元素，a标签除外</p></li></ul><table><thead><tr><th>行级元素</th><th>解释</th></tr></thead><tbody><tr><td>strong</td><td>用于强调文本，但它的有语义化，推荐使用</td></tr><tr><td>b</td><td>单一的字体加粗的效果</td></tr><tr><td>em</td><td>用于倾斜文本，但它的有语义化，推荐使用</td></tr><tr><td>i</td><td>倾斜</td></tr><tr><td>span</td><td>小容器 ，一个小玩意，配合CSS修改网页中的一些局部信息</td></tr><tr><td>sub</td><td>下标文本</td></tr><tr><td>sup</td><td>下标文本</td></tr><tr><td>del</td><td>删除线</td></tr><tr><td>a</td><td>超链接</td></tr></tbody></table>]]></content>
+      
+      
+      <categories>
+          
+          <category> Web </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三件套概况</title>
+      <link href="2021/04/21/%E4%B8%89%E4%BB%B6%E5%A5%97%E6%A6%82%E5%86%B5/"/>
+      <url>2021/04/21/%E4%B8%89%E4%BB%B6%E5%A5%97%E6%A6%82%E5%86%B5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="三件套-HTML-CSS-Javascar"><a href="#三件套-HTML-CSS-Javascar" class="headerlink" title="三件套 HTML CSS Javascar"></a>三件套 HTML CSS Javascar</h1><h2 id="三大核心语言"><a href="#三大核心语言" class="headerlink" title="三大核心语言"></a>三大核心语言</h2><ul><li>HTML  超文本标记语言 是网页的骨架</li><li>CSS   层叠样式表 是网页的衣服</li><li>JS    脚本语言 是网页的动作、行为</li></ul><h2 id="一、五大浏览器以及内核"><a href="#一、五大浏览器以及内核" class="headerlink" title="一、五大浏览器以及内核"></a>一、五大浏览器以及内核</h2><ul><li>谷歌  blink</li><li>火狐  Gecko</li><li>IE    trident</li><li>苹果  webkit</li><li>欧朋  blink</li></ul><h2 id="二、标签（标记、元素）"><a href="#二、标签（标记、元素）" class="headerlink" title="二、标签（标记、元素）"></a>二、标签（标记、元素）</h2><ul><li>由尖角号加关键字组成</li><li>有成对出现、也有单独出现</li><li>每个标签上都可以放属性</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;关键字 属性名&#x3D;&quot;属性值&quot;&gt;&lt;&#x2F;关键字&gt;</span><br><span class="line">例：</span><br><span class="line">&lt;h2 title&#x3D;&quot;张三&quot;&gt;人物&lt;&#x2F;h2&gt;</span><br></pre></td></tr></table></figure><h2 id="三、注释"><a href="#三、注释" class="headerlink" title="三、注释"></a>三、注释</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">html    &lt;!-- 注释 --&gt;</span><br><span class="line">css     &#x2F;* 注释 *&#x2F;</span><br><span class="line">js      &#x2F;&#x2F;单行注释        &#x2F;*  多行注释  *&#x2F;</span><br></pre></td></tr></table></figure><h2 id="四、标签"><a href="#四、标签" class="headerlink" title="四、标签"></a>四、标签</h2><p>详情去这里呀！<a href="http://localhost:4000/blog/2021/04/21/%E5%B8%B8%E7%94%A8%E6%A0%87%E7%AD%BE/">传送门</a></p><h3 id="标签分类"><a href="#标签分类" class="headerlink" title="标签分类"></a>标签分类</h3><ul><li>块标签<ul><li>特点：默认宽度100%，多个块标签各自独占一行，可设置所有样式</li></ul></li><li>内联标签<ul><li>特点：默认宽度由内容撑开，多个内联标签在一行显示、部分样式设置无效（比如：宽高）</li></ul></li><li>内联块标签<ul><li>特点：默认宽度是由内容撑开，多个内联块标签在一行显示，可以社遏制所有样式</li></ul></li></ul><h3 id="常用标签"><a href="#常用标签" class="headerlink" title="常用标签"></a>常用标签</h3><ul><li>块标签<ul><li>h1-h6 标题标签<ul><li>注意：一个页面里最好用一个h1标签，有利于SEO优化</li></ul></li><li>p 段落标签</li><li>div 布局标签，没有具体语义化，就是用来将内容划成一块一块的</li><li>hr 分割线（空标签）</li></ul></li><li>内联标签<ul><li>b 文字加粗</li><li>i 文字倾斜</li><li>span 用来布局，划分小块</li><li>br 强制换行</li><li>sup 上标字体</li><li>sub 下标字体</li><li>del 删除标签</li><li>a 超链接<ul><li>href属性：用来指定要跳转的页面地址<ul><li>用法：<ul><li>当前页面锚点链接：跳转到当前页面的某个位置<ul><li>在a标签的href属性里设置#id名</li><li>在目标位置的标签上设置id属性</li></ul></li><li>跳转页面锚点链接：跳转到本地其他页面的某个位置<ul><li>在a标签的href属性里指定要跳转页面的路径，再加上#id名</li><li>在目标位置的标签上设置id属性</li></ul></li></ul></li></ul></li><li>target属性：设置要跳转页面是新窗口打开，还是当前窗打开<ul><li>默认：_self（当前窗口打开）</li><li>_blank（新窗口打开）</li></ul></li></ul></li></ul></li><li>内联标签<ul><li>img 图片标签<ul><li>src 用来放图片路径</li><li>alt 图片路径不能加载，显示的内容</li><li>title 鼠标移动到图片上，显示的内容</li></ul></li></ul></li></ul><h2 id="特殊符号"><a href="#特殊符号" class="headerlink" title="特殊符号"></a>特殊符号</h2><ul><li>&amp;copy；   版权  ©</li><li>&amp;trade；  商标 ™</li><li>&amp; lt;  &amp; gt;    &lt;     &gt;</li><li>&nbsp; &amp; nbsp;   空格</li><li>&amp; reg;   已注册  &reg;</li><li>&amp; yen;  &amp;</li></ul><p>特殊符号对照表：<strong><a href="https://www.jb51.net/onlineread/htmlchar.htm">https://www.jb51.net/onlineread/htmlchar.htm</a></strong></p><h2 id="语义化"><a href="#语义化" class="headerlink" title="语义化"></a>语义化</h2><ul><li>什么是语义化<ul><li>用合适的标签和属性来格式化文档</li></ul></li><li>语义化的好处<ul><li>在没有css的情况下，也有良好的结构</li><li>增强页面的可读性</li><li>有利于用户体验</li><li>有利于SEO优化</li></ul></li></ul><blockquote><p><strong>欢迎来我的<a href="http://qrdd.gitee.io/blog/">搬码鸭の博客</a>呀！</strong><br><strong>博客朋友们如果提问没有的到回复，可以去<a href="https://blog.csdn.net/m0_56737433?spm=1000.2115.3001.5343">CSDN</a>相应的文章下评论，谢谢！</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Web </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HTTP和HTTPS的理解</title>
+      <link href="2021/04/21/HTTP%E5%92%8CHTTPS%E7%9A%84%E7%90%86%E8%A7%A3/"/>
+      <url>2021/04/21/HTTP%E5%92%8CHTTPS%E7%9A%84%E7%90%86%E8%A7%A3/</url>
+      
+        <content type="html"><![CDATA[<h1 id="HTTP和HTTPS的理解"><a href="#HTTP和HTTPS的理解" class="headerlink" title="HTTP和HTTPS的理解"></a>HTTP和HTTPS的理解</h1><p>感谢原作者，程序员cxuan 详情看这里<a href="https://blog.csdn.net/qq_36894974/article/details/103930478?spm=1001.2014.3001.5501">传送门</a> </p><h2 id="HTTP：是一种超文本传输协议，"><a href="#HTTP：是一种超文本传输协议，" class="headerlink" title="HTTP：是一种超文本传输协议，"></a>HTTP：是一种超文本传输协议，</h2><p>分割：超文本、传输、协议它们之间关系如下</p><p><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pbWcyMDE4LmNuYmxvZ3MuY29tL2Jsb2cvMTUxNTExMS8yMDIwMDEvMTUxNTExMS0yMDIwMDExMDIwMTIyMzEzMy0xMzAwNDA2NjE4LnBuZw?x-oss-process=image/format,png" alt="img"></p><h3 id="什么是超文本"><a href="#什么是超文本" class="headerlink" title="什么是超文本"></a>什么是超文本</h3><p>互联网早期没有网络，所以信息只能保存在本地，无法与其他电脑交互，所以称之为文本。随着互联网的高速发展，电脑之间可以进行传输的时候，人们想传输图片、音频、视频、甚至点击文字或者图片进行超链接的跳转、那么这种文本就被称之为超文本（得到强化的文本，文本就是普通人，超文本就是基因战士）</p><h3 id="什么是传输"><a href="#什么是传输" class="headerlink" title="什么是传输"></a>什么是传输</h3><p>两台电脑进行通信，储存的超文本就会被解析成为二进制数据包（因为电脑只认识二进制，所以需要进行解析），通过载体（例如同轴电缆、电话线、光缆）负责把二进制数据包由计算机终端传输到另一个终端的过程称之为传输。</p><h3 id="什么是协议"><a href="#什么是协议" class="headerlink" title="什么是协议"></a>什么是协议</h3><p>网络协议就是网络中传递、管理信息的规范，简单来说就是一种规则一种规定，计算机需要共同遵守一定的规则，这些规则称之为网络协议。</p><p>总的来说就是：<strong>超级文本信息通过载体，遵守网络规则的协议</strong></p><h3 id="HTTP的优缺点："><a href="#HTTP的优缺点：" class="headerlink" title="HTTP的优缺点："></a>HTTP的优缺点：</h3><ul><li>简单、灵活和易于扩展</li><li>应用非常广泛</li><li>HTTP是无状态的，可以轻松实现集群化，扩展性能</li><li>明文传输，数据完全肉眼可见，能够方便的研究和分析，但是也容易被窃听</li><li>HTTP是不安全的，无法验证通信双方的身份，也不能判断报文是否被修改（个人理解不能验证你的信息，也不能检验你的数据是否被修改）</li></ul><h2 id="HTTPS："><a href="#HTTPS：" class="headerlink" title="HTTPS："></a>HTTPS：</h2><p>​    基于HTTP协议，通过SSL或TLS提供加密处理数据、校验对方身份以及数据的完整性保护</p><h3 id="特点："><a href="#特点：" class="headerlink" title="特点："></a>特点：</h3><ul><li>内容加密：采用混合加密技术，中间无法直接查明文内容</li><li>验证身份：通过证书认证客户端访问的是自己的服务器</li><li>保护数据的完整性：防止传输的内容被中间人冒充或者篡改</li></ul><blockquote><p><strong>欢迎来到<a href="http://qrdd.gitee.io/blog/">搬码鸭の博客</a>呀！</strong><br><strong>博客朋友们如果提问没有的到回复，可以去<a href="https://blog.csdn.net/m0_56737433?spm=1000.2115.3001.5343">CSDN</a>相应的文章下评论，谢谢！</strong></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 协议 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTTP </tag>
+            
+            <tag> HTTPS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
