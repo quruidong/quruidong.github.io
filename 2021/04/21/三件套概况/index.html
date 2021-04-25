@@ -274,7 +274,7 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
       appKey: 'e991YNTbLumem2jnFvU451F3',
       placeholder: '记得留下你的昵称和邮箱....可以快速收到回复',
       avatar: 'monsterid',
-      meta: '昵称,邮箱,主页'.split(','),
+      meta: 'nick,mail,link'.split(','),
       pageSize: '10',
       lang: 'en',
       recordIP: true,
@@ -283,7 +283,7 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
       emojiMaps: "",
       enableQQ: true,
       path: window.location.pathname,
-      requiredFields: ["nick,mail"],
+      requiredFields: [["nick","mail"]],
       visitor: false
     }, null))
   }
