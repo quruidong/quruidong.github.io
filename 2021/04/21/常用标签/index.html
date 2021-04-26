@@ -301,13 +301,16 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
       emojiMaps: "",
       enableQQ: true,
       path: window.location.pathname,
+      master: 'c1f6062657e1321aff2cb495e556b422'.split(','),
+      friends: ''.split(','),
+      tagMeta: '博主,小伙伴,访客'.split(','),
       requiredFields: [["nick","mail"]],
       visitor: false
     }, null))
   }
 
   if (typeof Valine === 'function') initValine() 
-  else getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js').then(initValine)
+  else getScript('https://cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js').then(initValine)
 }
 
 if ('Valine' === 'Valine' || !true) {
