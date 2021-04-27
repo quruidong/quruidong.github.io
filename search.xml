@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>HTML5</title>
+      <link href="2021/04/27/HTML5/"/>
+      <url>2021/04/27/HTML5/</url>
+      
+        <content type="html"><![CDATA[<h1 id="HTML5"><a href="#HTML5" class="headerlink" title="HTML5"></a>HTML5</h1><h2 id="新特性"><a href="#新特性" class="headerlink" title="新特性"></a>新特性</h2><ul><li><p>新的语义元素：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">&lt;header&gt;标签定义文档的页眉</span><br><span class="line">&lt;footer&gt;标签定义文档或节的页脚</span><br><span class="line">以上支持：谷歌5.0IE9.0火狐4.0苹果5.0欧朋11.1</span><br><span class="line"></span><br><span class="line">&lt;article&gt;标签规定独立的自包含内容&lt;&#x2F;article&gt;</span><br><span class="line">支持：谷歌6.0IE9.0火狐4.0苹果5.0欧朋11.1</span><br><span class="line"></span><br><span class="line">&lt;section&gt;标签定义文档中的节（section、区段）。比如章节、页眉、页脚或文档中的其他部分。</span><br><span class="line">支持：谷歌5.0IE9.0火狐4.0苹果5.0欧朋11.5</span><br></pre></td></tr></table></figure></li><li><p>新的表单控件，比如数字、日期、时间、日历和滑块</p></li><li><p>强大的图像支持</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;canvas&gt;标签定义图形，比如图表和其他图像。标签只是图形容器，您必须使用脚本来绘制图形。</span><br><span class="line">支持：谷歌4.0IE9.0火狐2.0苹果3.1欧朋9.0</span><br><span class="line"></span><br><span class="line">&lt;svg&gt;标记定义 SVG 图形的容器。</span><br><span class="line"> SVG 有几种绘制路径、框、圆、文本和图形图像的方法。</span><br><span class="line">支持：谷歌4.0IE9.0火狐3.0苹果3.2欧朋10.1</span><br></pre></td></tr></table></figure></li><li><p>强大的多媒体支持</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;video&gt;标签定义视频，比如电影片段或其他视频流。</span><br><span class="line">支持：谷歌4.0IE9.0火狐3.5苹果3.1欧朋11.5</span><br><span class="line">&lt;audio&gt;标签定义声音，比如音乐或其他音频流。</span><br><span class="line">支持：谷歌4.0IE9.0火狐3.5苹果4.0欧朋11.5</span><br></pre></td></tr></table></figure></li><li><p>强大的新API，比如用本地储存取代cookie</p></li></ul><h2 id="被删元素"><a href="#被删元素" class="headerlink" title="被删元素"></a>被删元素</h2><p>以下HTML4.01元素已从HTML5中删除</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">&lt;acronym&gt;标签定义首字母缩写。</span><br><span class="line">&lt;applet&gt;标签定义嵌入的 applet。</span><br><span class="line">&lt;basefont&gt;标签定义基准字体。该标签可以为文档中的所有文本定义默认字体颜色、字体大小和字体系列。</span><br><span class="line">&lt;big&gt;标签呈现大号字体效果。</span><br><span class="line">&lt;center&gt;对其所包括的文本进行水平居中。</span><br><span class="line">&lt;dir&gt;标签定义目录列表。</span><br><span class="line">&lt;font&gt;规定文本的字体、字体尺寸、字体颜色。</span><br><span class="line">&lt;frame&gt;标签定义 frameset 中的一个特定的窗口（框架）。</span><br><span class="line">&lt;frameset&gt;可定义一个框架集。</span><br><span class="line">&lt;noframes&gt;可为那些不支持框架的浏览器显示文本。noframes 元素位于 frameset 元素内部。</span><br><span class="line">&lt;strike&gt;标签可定义加删除线文本定义。</span><br><span class="line">&lt;tt&gt;标签呈现类似打字机或者等宽的文本效果。</span><br></pre></td></tr></table></figure><blockquote><p>未完待续…</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> web </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTML5 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>html及css总结</title>
       <link href="2021/04/27/html%E5%8F%8Acss%E6%80%BB%E7%BB%93/"/>
       <url>2021/04/27/html%E5%8F%8Acss%E6%80%BB%E7%BB%93/</url>
