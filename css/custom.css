@@ -16,7 +16,7 @@ a#site-name {
 
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item{
-    background:rgba(255, 255, 255, 0.9);
+    background:rgba(255, 255, 255, 1);
 }
 /* 首页侧栏卡片 */
 .card-widget{
